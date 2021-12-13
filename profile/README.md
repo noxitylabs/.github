@@ -27,3 +27,20 @@ We provide one of the best hosting experiences since 2019.<br>You can rest assur
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://status.simpliservers.com">
+    <img src="https://img.shields.io/badge/-Service%20Status-blue?style=for-the-badge&logo=instatus&logoColor=white" />
+  </a>
+  <a href="https://support.simpliservers.com">
+    <img src="https://img.shields.io/badge/-Support-blue?style=for-the-badge" />
+  </a>
+  <a href="https://help.simpliservers.com/">
+    <img src="https://img.shields.io/badge/-Knowledgebase-blue?style=for-the-badge" />
+  </a>
+  <a href="https://tools.simpliservers.com/">
+    <img src="https://img.shields.io/badge/-Tools-blue?style=for-the-badge" />
+  </a>
+</p>
