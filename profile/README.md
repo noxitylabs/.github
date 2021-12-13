@@ -34,7 +34,7 @@ We provide one of the best hosting experiences since 2019.<br>You can rest assur
   <a href="https://status.simpliservers.com">
     <img src="https://img.shields.io/badge/-Service%20Status-blue?style=for-the-badge&logo=instatus&logoColor=white" />
   </a>
-  <a href="https://support.simpliservers.com">
+  <a href="https://simpliservers.com/support">
     <img src="https://img.shields.io/badge/-Support-blue?style=for-the-badge" />
   </a>
   <a href="https://help.simpliservers.com/">
